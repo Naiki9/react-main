@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-main/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-main/static/js/main.b77b0fbd.chunk.js",
+    "main.js.map": "/react-main/static/js/main.b77b0fbd.chunk.js.map",
+    "runtime~main.js": "/react-main/static/js/runtime~main.9bb2a0da.js",
+    "runtime~main.js.map": "/react-main/static/js/runtime~main.9bb2a0da.js.map",
+    "static/js/2.72105dd9.chunk.js": "/react-main/static/js/2.72105dd9.chunk.js",
+    "static/js/2.72105dd9.chunk.js.map": "/react-main/static/js/2.72105dd9.chunk.js.map",
+    "index.html": "/react-main/index.html",
+    "precache-manifest.c9a09a95a58c11ca2492cbf136d3eb9c.js": "/react-main/precache-manifest.c9a09a95a58c11ca2492cbf136d3eb9c.js",
+    "service-worker.js": "/react-main/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/react-main/static/css/main.34de6062.chunk.css.map",
+    "static/media/bootstrap.png": "/react-main/static/media/bootstrap.73844123.png",
+    "static/media/css.png": "/react-main/static/media/css.1651ac0d.png",
+    "static/media/figma.png": "/react-main/static/media/figma.1706c9f1.png",
+    "static/media/header-bg.jpg": "/react-main/static/media/header-bg.a66b9be1.jpg",
+    "static/media/header-bgc.jpg": "/react-main/static/media/header-bgc.e2d2a51c.jpg",
+    "static/media/ionic.png": "/react-main/static/media/ionic.ca522180.png",
+    "static/media/java.png": "/react-main/static/media/java.652fdb65.png",
+    "static/media/javascript.png": "/react-main/static/media/javascript.e068a7fe.png",
+    "static/media/mdb.png": "/react-main/static/media/mdb.076aee3c.png",
+    "static/media/php.png": "/react-main/static/media/php.6d390c1e.png",
+    "static/media/react.png": "/react-main/static/media/react.88b5e0ec.png",
+    "static/media/uiux.jpeg": "/react-main/static/media/uiux.b01ac5a0.jpeg",
+    "static/media/webdesign.jpeg": "/react-main/static/media/webdesign.bb85524f.jpeg",
+    "static/media/webdev.jpeg": "/react-main/static/media/webdev.7569ea2e.jpeg"
+  }
+}
